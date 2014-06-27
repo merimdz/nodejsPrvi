@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-sample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
@@ -37,3 +38,9 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+=======
+nodejsPrvi
+==========
+
+ovo je inicijelni nodejsHelloWorld sa kursa startup engineering
+>>>>>>> 8c4a3a353fed144c1c4501d633abea9291349797
